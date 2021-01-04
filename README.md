@@ -1,4 +1,4 @@
-# Neural-Networks-and-Deep-Learning
+# Neural Networks and Deep Learning
 ## Deep Learning Coursera
 
 - Logistic Regression with a Neural Network mindset
