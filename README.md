@@ -3,8 +3,8 @@
 
 - Logistic Regression with a Neural Network mindset
 - Build the general architecture of a learning algorithm, including:
-        -- Initializing parameters
-        -- Calculating the cost function and its gradient
-        -- Using an optimization algorithm (gradient descent)
+        1. Initializing parameters
+        2. Calculating the cost function and its gradient
+        3. Using an optimization algorithm (gradient descent)
    
 
